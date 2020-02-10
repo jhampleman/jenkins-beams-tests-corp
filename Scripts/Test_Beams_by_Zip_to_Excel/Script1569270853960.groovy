@@ -26,10 +26,11 @@ import groovy.json.JsonSlurper
 
 String excelFile01 = 'beams-test-results.xlsx'
 
+
 // Verify sheets created
 String[] ExpectedListSheetFile1 = ['Sheet1']
-workbookFile01 = ExcelKeywords.getWorkbook(excelFile01 // get latest workbook File01
-	)
+workbookFile01 = ExcelKeywords.getWorkbook(excelFile01)// get latest workbook File01
+	
 
 // Write some data to File01Sheet01 in File01
 workbook01 = ExcelKeywords.getWorkbook(excelFile01)
