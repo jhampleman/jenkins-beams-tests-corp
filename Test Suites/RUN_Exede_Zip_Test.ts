@@ -86,7 +86,7 @@
       <testCaseId>Test Cases/Test_Beams_by_Zip_to_Excel</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
-         <id>9db55942-48b6-4435-9b6a-9a4dabb0204b</id>
+         <id>09bc0a74-b0f6-48c4-b9f0-fa1358d3f829</id>
          <iterationEntity>
             <iterationType>ALL</iterationType>
             <value></value>
@@ -94,19 +94,19 @@
          <testDataId>Data Files/Excel_Test_Data</testDataId>
       </testDataLink>
       <variableLink>
-         <testDataLinkId>9db55942-48b6-4435-9b6a-9a4dabb0204b</testDataLinkId>
+         <testDataLinkId>09bc0a74-b0f6-48c4-b9f0-fa1358d3f829</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>myzip</value>
          <variableId>85105ec6-3bbd-439b-806d-a4e11a60758c</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId>9db55942-48b6-4435-9b6a-9a4dabb0204b</testDataLinkId>
+         <testDataLinkId>09bc0a74-b0f6-48c4-b9f0-fa1358d3f829</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>mybeam</value>
          <variableId>0dd0fb29-f156-427f-9e6a-c68f8d425229</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId>9db55942-48b6-4435-9b6a-9a4dabb0204b</testDataLinkId>
+         <testDataLinkId>09bc0a74-b0f6-48c4-b9f0-fa1358d3f829</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>myuff</value>
          <variableId>ed4a3d95-1c2c-40bd-960c-c2014153f6ae</variableId>
@@ -130,7 +130,7 @@
          <variableId>2bc7a656-49bf-43fd-9250-8698b458e542</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId>9db55942-48b6-4435-9b6a-9a4dabb0204b</testDataLinkId>
+         <testDataLinkId>09bc0a74-b0f6-48c4-b9f0-fa1358d3f829</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>myplan</value>
          <variableId>170ce68b-2ac4-4387-96bb-666b9dfc2517</variableId>
