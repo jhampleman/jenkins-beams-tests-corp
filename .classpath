@@ -131,7 +131,7 @@
 			<attribute name="javadoc_location" value="file:/Applications/Katalon%20Studio.app/Contents/Eclipse/configuration/resources/apidocs/com.kms.katalon.core.windows/"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/Users/jhampleman/Katalon Studio/Exede_Beam_Tests_v2.1 copy/Drivers/ExcelKeywords.jar"/>
+	<classpathentry kind="lib" path="/Users/jhampleman/jenkins-beam-tests-master/Drivers/ExcelKeywords.jar"/>
 	<classpathentry exported="true" kind="con" path="GROOVY_SUPPORT"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
